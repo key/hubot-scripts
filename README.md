@@ -1,6 +1,3 @@
-hubot-scripts
-=============
-
 # About scripts
 
 ## github-issue-create.coffee
